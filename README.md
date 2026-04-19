@@ -52,11 +52,13 @@ Built for progress, discipline, and wellness.
 
 ## 📥 Download APK
 
-Go to Releases section:
+### Direct Download Latest APK
 
-➡ Click **Releases** on right side of repository.
+➡️ Click below:
 
-Download latest:
+https://github.com/ot-onetapstudios/one-tap-app/releases/latest
+
+Download file:
 
 **app-release.apk**
 
