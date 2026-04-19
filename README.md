@@ -2,6 +2,9 @@
 
 ### Premium Offline Hydration & Self-Improvement Android App
 
+### ⬇️ Download Latest APK:
+https://github.com/ot-onetapstudios/one-tap-app/releases/latest
+
 ONE TAP is a clean, simple, and powerful Android app designed to help people improve daily habits with one tap at a time.
 
 ---
